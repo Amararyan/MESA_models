@@ -1,1 +1,2 @@
 # MESA_models
+This project is used to create the type Ib pre-supernova model for a 13M_sun ZAMS star with MESA version 110701. The star is evolved upto to onset of core-collapse. The output then can be used to evolve the model from core-collapse to near shock breakout. Later on, the output at the end of near shock breakout can be used as input to the public version of STELLA available with MESA. Finally STELLA explodes the model and provides various observables such as the bolometric luminosity and Fe II (5169 Ang.) line velocity evolution etc. 
